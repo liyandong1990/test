@@ -10,6 +10,7 @@ int main()
 {
 
 	printf("Hello World")
+	print_fn();
 	return 0;
 }
 
